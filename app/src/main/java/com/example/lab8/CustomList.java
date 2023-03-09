@@ -63,5 +63,10 @@ public class CustomList extends ArrayAdapter<City> {
         return cities.contains(city);
     }
 
+    //delete a city
+    public void deleteCity(City city){
+
+    }
+
 
 }
